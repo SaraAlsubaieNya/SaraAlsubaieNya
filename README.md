@@ -7,7 +7,8 @@
 <h2 align="center">🌸 Welcome to my space 🌸</h2>
 
 <p align="center">
-  I'm Sara! Cmputer Science graduate passionate about building smart systems, uncovering insights from data, and making things that matter ~nya~.
+  I'm Sara! Cmputer Science graduate passionate about building smart systems, uncovering insights from data, and making things that matter 
+  ~nya~
 </p>
 
 ---
@@ -31,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
 </p>
 
 ---
