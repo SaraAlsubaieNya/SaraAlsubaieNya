@@ -15,11 +15,11 @@
 
 ###  About Me ;3
 
-- 🎓 CS graduate based in Saudi Arabia  
-- 👩‍💻 Data Scientist + Business Intelligence Developer  
-- 🔍 Obsessed with clean data, smart tools, and creative visuals  
-- 🧠 Love working on NLP, Dashboards, ETL, and Data Analysis  
-- 🛠️ Tech tools I enjoy using: Snowflake, Streamlit, Power BI, Python, and more!
+- 🌸 CS graduate based in Saudi Arabia  
+- 🌸 Data Scientist + Business Intelligence Developer  
+- 🌸 Obsessed with clean data, smart tools, and creative visuals  
+- 🌸 Love working on NLP, Dashboards, ETL, and Data Analysis  
+- 🌸 Tech tools I enjoy using: Snowflake, Streamlit, Power BI, Python, and more!
 
 ---
 
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY1cHNhcWl1MnN6em5hNm90OXl2bWRyMWNwaDFsaXhpNDR3dHdoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGuAZNdkPUpEY/giphy.gif" width="60%" height="80%" alt="running cat"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY1cHNhcWl1MnN6em5hNm90OXl2bWRyMWNwaDFsaXhpNDR3dHdoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGuAZNdkPUpEY/giphy.gif" width="60%" height="80%" alt="nyan cat"/>
 </p>
