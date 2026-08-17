@@ -12,7 +12,7 @@ building whatever I can.
 
 ### about
 
-I work across the data stack — from cleaning messy tables to shipping small apps around them. Right now that means personal projects, geospatial tinkering, and figuring out what's next.
+I work across the data stack: from cleaning messy tables to shipping small apps around them. Right now that means personal projects, geospatial tinkering, and figuring out what's next.
 
 ### tools
 
